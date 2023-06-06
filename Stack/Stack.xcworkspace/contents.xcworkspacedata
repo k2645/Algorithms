@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <Group
+      location = "container:"
+      name = "Sources">
+      <FileRef
+         location = "group:Stack.swift">
+      </FileRef>
+      <FileRef
+         location = "group:Helper.swift">
+      </FileRef>
+   </Group>
+   <Group
+      location = "container:"
+      name = "Stack">
+      <FileRef
+         location = "group:main.swift">
+      </FileRef>
+   </Group>
+</Workspace>
